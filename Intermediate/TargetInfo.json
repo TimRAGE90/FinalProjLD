@@ -1,4 +1,14 @@
 {
 	"Targets": [
+		{
+			"Name": "ActionRPG",
+			"Path": "C:\\Users\\Bloo7\\Desktop\\Level Design\\Project3\\FinalProjLD\\Source\\ActionRPG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActionRPGEditor",
+			"Path": "C:\\Users\\Bloo7\\Desktop\\Level Design\\Project3\\FinalProjLD\\Source\\ActionRPGEditor.Target.cs",
+			"Type": "Editor"
+		}
 	]
 }

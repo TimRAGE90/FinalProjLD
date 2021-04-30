@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\menar\\Documents\\GitHub\\FinalProjLd\\FinalProjLD\\Source\\ActionRPG\\ActionRPG.Build.cs",
-		"C:\\Users\\menar\\Documents\\GitHub\\FinalProjLd\\FinalProjLD\\Source\\ActionRPGLoadingScreen\\ActionRPGLoadingScreen.Build.cs",
-		"C:\\Users\\menar\\Documents\\GitHub\\FinalProjLd\\FinalProjLD\\Source\\ActionRPG.Target.cs",
-		"C:\\Users\\menar\\Documents\\GitHub\\FinalProjLd\\FinalProjLD\\Source\\ActionRPGEditor.Target.cs"
+		"C:\\Users\\Bloo7\\Desktop\\Level Design\\Project3\\FinalProjLD\\Source\\ActionRPG\\ActionRPG.Build.cs",
+		"C:\\Users\\Bloo7\\Desktop\\Level Design\\Project3\\FinalProjLD\\Source\\ActionRPGLoadingScreen\\ActionRPGLoadingScreen.Build.cs",
+		"C:\\Users\\Bloo7\\Desktop\\Level Design\\Project3\\FinalProjLD\\Source\\ActionRPG.Target.cs",
+		"C:\\Users\\Bloo7\\Desktop\\Level Design\\Project3\\FinalProjLD\\Source\\ActionRPGEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }
